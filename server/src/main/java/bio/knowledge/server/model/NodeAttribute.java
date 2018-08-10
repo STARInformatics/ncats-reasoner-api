@@ -10,7 +10,7 @@ import javax.validation.constraints.*;
  * A generic attribute for a node
  */
 @ApiModel(description = "A generic attribute for a node")
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2018-08-09T20:43:13.676-07:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2018-08-09T20:52:49.953-07:00")
 
 public class NodeAttribute   {
   @JsonProperty("type")

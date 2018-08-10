@@ -14,7 +14,7 @@ import javax.validation.constraints.*;
  * A thought graph associated with this result. This will commonly be a linear path subgraph from one concept to another, but related items aside of the path may be included.
  */
 @ApiModel(description = "A thought graph associated with this result. This will commonly be a linear path subgraph from one concept to another, but related items aside of the path may be included.")
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2018-08-09T20:43:13.676-07:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.SpringCodegen", date = "2018-08-09T20:52:49.953-07:00")
 
 public class ResultGraph   {
   @JsonProperty("node_list")
